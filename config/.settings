@@ -1,0 +1,19 @@
+{
+    "username": "technicalseth@gmail.com", 
+    "environment": "developer", 
+    "project_name": "GitTest", 
+    "workspace": "/home/seth/Business/www.codescience.com/projects/opera", 
+    "org_url": "", 
+    "namespace": "", 
+    "id": "YG4HF65OZFWVJE7BHCOL2WPMYO5D1G4X", 
+    "metadata_container": "1dc1a000000HmbxAAC", 
+    "subscription": [
+        "ApexClass", 
+        "ApexComponent", 
+        "ApexPage", 
+        "ApexTrigger", 
+        "StaticResource", 
+        "CustomObject", 
+        "Profile"
+    ]
+}
